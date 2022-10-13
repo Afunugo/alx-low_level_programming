@@ -4,11 +4,11 @@
 
 /**
  *
- * * main - Printing
+ * * main - Printing is fun
  *
  * *
  *
- * * Return: Always 0 (Successful)
+ * * Return: Always 0 (Beautiful)
  *
  * */
 
