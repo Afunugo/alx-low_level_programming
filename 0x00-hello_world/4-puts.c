@@ -10,7 +10,7 @@
  * * Return: Always 0 (Beautiful)
  * */
 
-int main()
+int main(void)
 
 {
 
