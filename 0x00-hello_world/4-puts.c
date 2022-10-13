@@ -3,13 +3,11 @@
 
 
 /**
- *
  * * main - Printing is fun
  *
  * *
  *
  * * Return: Always 0 (Beautiful)
- *
  * */
 
 int main(void)
